@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "808978b3-7709-4485-8ae4-ab4d5d48ee52",
+		"name": "Ai Agent Wrapper",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33179349"
+	},
+	"item": [
+		{
+			"name": "Retell request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Vapi request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
